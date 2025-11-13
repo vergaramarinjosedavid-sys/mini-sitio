@@ -7,4 +7,5 @@ Este es un mini sitio web creado para la actividad de Issues, Kanban y Trazabili
 ```bash
 git clone https://github.com/vergaramarinjosedavid-sys/mini-sitio.git
 
-Actualización realizada para el Issue #3
+Esta actualización forma parte de la trazabilidad del Issue #3.
+
