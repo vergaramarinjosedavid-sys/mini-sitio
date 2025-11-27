@@ -9,3 +9,6 @@ git clone https://github.com/vergaramarinjosedavid-sys/mini-sitio.git
 
 Esta actualización forma parte de la trazabilidad del Issue #3.
 
+Cambio añadido por José para crear el Pull Request.
+
+
